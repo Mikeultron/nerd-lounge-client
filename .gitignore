@@ -1,0 +1,11 @@
+# Dependencies directory
+node_modules/
+
+# Built files
+dist/
+
+# Lock files
+yarn.lock
+
+# Env files
+.env
